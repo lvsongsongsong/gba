@@ -1,0 +1,20 @@
+{
+    "name": "gamerbit",
+    "version": "0.0.6",
+    "description": "ELECFREAKS gamer:bit blocks",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "gamerbit.cpp",
+        "gamerbit.ts",
+        "shims.d.ts",
+        "enums.d.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true
+}
